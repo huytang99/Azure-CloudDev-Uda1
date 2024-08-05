@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\env",
+    "\\env\\Include",
+    "\\env\\Lib\\site-packages",
+    "\\env\\Lib\\site-packages\\pip",
+    "\\env\\Lib\\site-packages\\pip\\_internal",
+    "\\env\\Lib\\site-packages\\pkg_resources",
+    "\\FlaskWebProject",
+    "\\FlaskWebProject\\templates"
+  ],
+  "SelectedNode": "\\FlaskWebProject\\__init__.py",
+  "PreviewInSolutionExplorer": false
+}
